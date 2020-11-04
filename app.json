@@ -4,6 +4,7 @@
         "pages/button/button",
         "pages/list/list",
         "pages/form/form",
+        "pages/uploader/uploader",
         "pages/dialog/dialog",
         "pages/topTabar/topTabar",
         "pages/search/search"
