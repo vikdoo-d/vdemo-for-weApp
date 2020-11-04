@@ -31,6 +31,10 @@ Page({
                 title:'搜索',
                 url:'../search/search'
             },
+            {
+                title:'生成海报',
+                url:'../poster/poster'
+            },
         ]
     },
     chooseItem: function(e) {
