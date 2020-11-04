@@ -16,6 +16,10 @@ Page({
                 url: '../form/form'
             },
             {
+                title: '文件上传',
+                url: '../uploader/uploader'
+            }, 
+            {
                 title: '模态框',
                 url: '../dialog/dialog'
             },
